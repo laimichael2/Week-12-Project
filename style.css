@@ -1,0 +1,27 @@
+#content {
+    width: 60%;
+    margin: auto;
+}
+
+.info-box {
+    background-color: gray;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+    font-weight: 600;
+}
+
+#myUpdateForm {
+    color:brown;
+    font-style: italic;
+    font-size: larger;
+    font-weight: 1000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#myForm {
+    color:brown;
+    font-style: italic;
+    font-size: larger;
+    font-weight: 1000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

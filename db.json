@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "Judy",
+      "number": "646555555"
+    },
+    {
+      "name": "ryan",
+      "number": "2343224",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
